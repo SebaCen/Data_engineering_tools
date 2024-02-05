@@ -18,3 +18,4 @@
 .ipynb_checkpoints
 .vscode
 *temp
+*.xlsx
